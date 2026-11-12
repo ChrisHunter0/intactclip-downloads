@@ -1,0 +1,47 @@
+IntactClip — End User License Agreement (EULA)
+Copyright (c) 2026 ChrisHunter0. All rights reserved.
+
+1. WHAT YOU MAY DO
+   The free tier of IntactClip may be used for personal or commercial work at no charge,
+   within the limits described on the product site (a fixed number of trial tasks, then
+   per-task limits on clips, files and merge segments).
+   A purchased license unlocks unlimited use. It is per person and does not expire.
+
+2. WHAT YOU MAY NOT DO
+   - Redistribute, resell, sublicense, rent or lend the installer or the application.
+   - Publish or share license keys, or use a key that was not issued to you.
+   - Reverse-engineer, decompile or modify the application except where such restriction
+     is prohibited by applicable law.
+   - Remove or alter this notice, the copyright notice, or the bundled third-party notices.
+
+3. THIRD-PARTY COMPONENTS
+   IntactClip ships an unmodified ffmpeg build and invokes it as a separate process; ffmpeg is
+   not linked into the application. The ffmpeg build is distributed under the GNU General
+   Public License v3. Its full license text is included as ffmpeg-LICENSE.txt, and the exact
+   build provenance (version, vendor, and where the corresponding source can be obtained) is
+   included as FFMPEG-SOURCE.txt. Nothing in this EULA restricts your rights under the GPL
+   with respect to the ffmpeg binary itself.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NONINFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+   SOFTWARE IS WITH YOU.
+
+5. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF DATA, MEDIA,
+   PROFITS OR BUSINESS, ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE. The
+   author's total liability shall not exceed the amount you paid for your license.
+   Keep backups of your source footage: this tool overwrites same-named output files and a
+   power loss or a full disk during writing can leave a truncated output file.
+
+6. PAYMENT AND REFUNDS
+   Payments are processed by a third-party merchant of record. Refund terms are published at
+   /refund.html on the product site and prevail over anything written here.
+
+7. CHANGES
+   Future versions may change prices, free-tier limits, or features. Changes never apply
+   retroactively to a license you have already purchased.
+
+Contact: support@intactclip.com

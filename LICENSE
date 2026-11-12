@@ -1,0 +1,17 @@
+IntactClip is proprietary software.
+Copyright (c) 2026 ChrisHunter0. All rights reserved.
+
+The full end user license is distributed with every build as LICENSE.txt, and is also
+available in this repository:
+
+    https://github.com/ChrisHunter0/intactclip/blob/main/LICENSE.txt
+
+Short version: the free tier of IntactClip may be used for personal or commercial work at no
+charge within the published limits; a purchased license unlocks unlimited use and is per
+person, non-expiring. Redistribution, resale and publishing license keys are not permitted.
+The bundled ffmpeg binary is a separate GPL v3 component with its own license text included
+in the download.
+
+This file replaces the MIT license that applied to earlier commits of this repository.
+Previously published commits remain available to their authors under their original terms,
+but no further source distribution is granted.
